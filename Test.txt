@@ -1,1 +1,2 @@
 Xử lí conflict giữa 2 users.
+Chỉnh sửa trên remote repo.
