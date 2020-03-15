@@ -1,0 +1,1 @@
+Xử lí conflict giữa 2 users.
